@@ -1,6 +1,6 @@
 # What is this?
 
-This repo contains all the free wallpapers that I picked from github and were free to use. Feel free to download or clone the repo and use the wallpaper on your machine. Check README.md to see how I use these wallpapers.
+This repo contains all the free wallpapers that I picked from github and were free to use. Feel free to download or clone the repo and use the wallpaper on your machine.
 
 <hr />
 
